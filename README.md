@@ -1,6 +1,15 @@
 # micard
 
-A new Flutter application.
+A Mi Card Flutter application where i describe my profile information.
+
+# What I Learned
+* Dart Language
+* Flutter
+* ListTile
+* Circle avatar
+* UI/UX Design
+
+## Note: I am providing image of all screen in repo.
 
 ## Getting Started
 
